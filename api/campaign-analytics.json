@@ -1,0 +1,982 @@
+[
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/18/2026",
+    "emails_sent": 100,
+    "emails_opened": 80,
+    "positive_replies": 5
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/18/2026",
+    "emails_sent": 80,
+    "emails_opened": 30,
+    "positive_replies": 17
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/18/2026",
+    "emails_sent": 200,
+    "emails_opened": 120,
+    "positive_replies": 20
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/18/2026",
+    "emails_sent": 40,
+    "emails_opened": 29,
+    "positive_replies": 26
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/18/2026",
+    "emails_sent": 230,
+    "emails_opened": 200,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/18/2026",
+    "emails_sent": 240,
+    "emails_opened": 203,
+    "positive_replies": 29
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/19/2026",
+    "emails_sent": 72,
+    "emails_opened": 47,
+    "positive_replies": 6
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/19/2026",
+    "emails_sent": 68,
+    "emails_opened": 51,
+    "positive_replies": 6
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/19/2026",
+    "emails_sent": 215,
+    "emails_opened": 155,
+    "positive_replies": 14
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/19/2026",
+    "emails_sent": 212,
+    "emails_opened": 117,
+    "positive_replies": 30
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/19/2026",
+    "emails_sent": 213,
+    "emails_opened": 165,
+    "positive_replies": 36
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/20/2026",
+    "emails_sent": 115,
+    "emails_opened": 82,
+    "positive_replies": 8
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/20/2026",
+    "emails_sent": 102,
+    "emails_opened": 42,
+    "positive_replies": 14
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/20/2026",
+    "emails_sent": 175,
+    "emails_opened": 124,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/20/2026",
+    "emails_sent": 202,
+    "emails_opened": 93,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/21/2026",
+    "emails_sent": 119,
+    "emails_opened": 74,
+    "positive_replies": 14
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/21/2026",
+    "emails_sent": 195,
+    "emails_opened": 113,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/21/2026",
+    "emails_sent": 73,
+    "emails_opened": 31,
+    "positive_replies": 14
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/21/2026",
+    "emails_sent": 250,
+    "emails_opened": 141,
+    "positive_replies": 47
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/22/2026",
+    "emails_sent": 92,
+    "emails_opened": 64,
+    "positive_replies": 5
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/22/2026",
+    "emails_sent": 161,
+    "emails_opened": 114,
+    "positive_replies": 18
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/22/2026",
+    "emails_sent": 240,
+    "emails_opened": 84,
+    "positive_replies": 23
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/22/2026",
+    "emails_sent": 200,
+    "emails_opened": 106,
+    "positive_replies": 14
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/23/2026",
+    "emails_sent": 117,
+    "emails_opened": 90,
+    "positive_replies": 7
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/23/2026",
+    "emails_sent": 73,
+    "emails_opened": 41,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/23/2026",
+    "emails_sent": 72,
+    "emails_opened": 37,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/23/2026",
+    "emails_sent": 54,
+    "emails_opened": 20,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/23/2026",
+    "emails_sent": 247,
+    "emails_opened": 96,
+    "positive_replies": 47
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/23/2026",
+    "emails_sent": 207,
+    "emails_opened": 74,
+    "positive_replies": 15
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/24/2026",
+    "emails_sent": 71,
+    "emails_opened": 39,
+    "positive_replies": 13
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/24/2026",
+    "emails_sent": 121,
+    "emails_opened": 92,
+    "positive_replies": 21
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/24/2026",
+    "emails_sent": 105,
+    "emails_opened": 39,
+    "positive_replies": 18
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/24/2026",
+    "emails_sent": 204,
+    "emails_opened": 123,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/25/2026",
+    "emails_sent": 81,
+    "emails_opened": 35,
+    "positive_replies": 9
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/25/2026",
+    "emails_sent": 112,
+    "emails_opened": 88,
+    "positive_replies": 12
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/25/2026",
+    "emails_sent": 176,
+    "emails_opened": 63,
+    "positive_replies": 32
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/25/2026",
+    "emails_sent": 135,
+    "emails_opened": 99,
+    "positive_replies": 15
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/25/2026",
+    "emails_sent": 219,
+    "emails_opened": 178,
+    "positive_replies": 18
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/25/2026",
+    "emails_sent": 246,
+    "emails_opened": 120,
+    "positive_replies": 45
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/26/2026",
+    "emails_sent": 73,
+    "emails_opened": 55,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/26/2026",
+    "emails_sent": 105,
+    "emails_opened": 47,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/26/2026",
+    "emails_sent": 60,
+    "emails_opened": 50,
+    "positive_replies": 7
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/26/2026",
+    "emails_sent": 105,
+    "emails_opened": 36,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/26/2026",
+    "emails_sent": 220,
+    "emails_opened": 170,
+    "positive_replies": 29
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/26/2026",
+    "emails_sent": 259,
+    "emails_opened": 217,
+    "positive_replies": 30
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/27/2026",
+    "emails_sent": 102,
+    "emails_opened": 81,
+    "positive_replies": 8
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/27/2026",
+    "emails_sent": 213,
+    "emails_opened": 141,
+    "positive_replies": 42
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/27/2026",
+    "emails_sent": 228,
+    "emails_opened": 95,
+    "positive_replies": 23
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/27/2026",
+    "emails_sent": 212,
+    "emails_opened": 108,
+    "positive_replies": 32
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/28/2026",
+    "emails_sent": 114,
+    "emails_opened": 47,
+    "positive_replies": 17
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "2/28/2026",
+    "emails_sent": 70,
+    "emails_opened": 54,
+    "positive_replies": 6
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/28/2026",
+    "emails_sent": 220,
+    "emails_opened": 97,
+    "positive_replies": 39
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "2/28/2026",
+    "emails_sent": 128,
+    "emails_opened": 89,
+    "positive_replies": 6
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/28/2026",
+    "emails_sent": 212,
+    "emails_opened": 64,
+    "positive_replies": 20
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "2/28/2026",
+    "emails_sent": 243,
+    "emails_opened": 216,
+    "positive_replies": 48
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/1/2026",
+    "emails_sent": 111,
+    "emails_opened": 63,
+    "positive_replies": 9
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/1/2026",
+    "emails_sent": 107,
+    "emails_opened": 87,
+    "positive_replies": 12
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/1/2026",
+    "emails_sent": 200,
+    "emails_opened": 134,
+    "positive_replies": 29
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/1/2026",
+    "emails_sent": 195,
+    "emails_opened": 148,
+    "positive_replies": 16
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/1/2026",
+    "emails_sent": 206,
+    "emails_opened": 161,
+    "positive_replies": 13
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/2/2026",
+    "emails_sent": 63,
+    "emails_opened": 35,
+    "positive_replies": 7
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/2/2026",
+    "emails_sent": 190,
+    "emails_opened": 123,
+    "positive_replies": 15
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/2/2026",
+    "emails_sent": 65,
+    "emails_opened": 58,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/2/2026",
+    "emails_sent": 211,
+    "emails_opened": 97,
+    "positive_replies": 21
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/3/2026",
+    "emails_sent": 117,
+    "emails_opened": 66,
+    "positive_replies": 21
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/3/2026",
+    "emails_sent": 104,
+    "emails_opened": 55,
+    "positive_replies": 14
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/3/2026",
+    "emails_sent": 132,
+    "emails_opened": 59,
+    "positive_replies": 12
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/3/2026",
+    "emails_sent": 186,
+    "emails_opened": 150,
+    "positive_replies": 29
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/3/2026",
+    "emails_sent": 258,
+    "emails_opened": 222,
+    "positive_replies": 31
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/4/2026",
+    "emails_sent": 116,
+    "emails_opened": 99,
+    "positive_replies": 17
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/4/2026",
+    "emails_sent": 64,
+    "emails_opened": 40,
+    "positive_replies": 13
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/4/2026",
+    "emails_sent": 69,
+    "emails_opened": 34,
+    "positive_replies": 9
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/4/2026",
+    "emails_sent": 125,
+    "emails_opened": 87,
+    "positive_replies": 6
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/4/2026",
+    "emails_sent": 217,
+    "emails_opened": 148,
+    "positive_replies": 30
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/4/2026",
+    "emails_sent": 226,
+    "emails_opened": 103,
+    "positive_replies": 16
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/5/2026",
+    "emails_sent": 85,
+    "emails_opened": 27,
+    "positive_replies": 9
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/5/2026",
+    "emails_sent": 74,
+    "emails_opened": 47,
+    "positive_replies": 7
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/5/2026",
+    "emails_sent": 54,
+    "emails_opened": 39,
+    "positive_replies": 6
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/5/2026",
+    "emails_sent": 88,
+    "emails_opened": 33,
+    "positive_replies": 7
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/5/2026",
+    "emails_sent": 223,
+    "emails_opened": 76,
+    "positive_replies": 42
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/6/2026",
+    "emails_sent": 71,
+    "emails_opened": 51,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/6/2026",
+    "emails_sent": 112,
+    "emails_opened": 70,
+    "positive_replies": 18
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/6/2026",
+    "emails_sent": 72,
+    "emails_opened": 57,
+    "positive_replies": 5
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/6/2026",
+    "emails_sent": 248,
+    "emails_opened": 151,
+    "positive_replies": 27
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/7/2026",
+    "emails_sent": 110,
+    "emails_opened": 80,
+    "positive_replies": 16
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/7/2026",
+    "emails_sent": 196,
+    "emails_opened": 78,
+    "positive_replies": 33
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/7/2026",
+    "emails_sent": 127,
+    "emails_opened": 100,
+    "positive_replies": 15
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/7/2026",
+    "emails_sent": 247,
+    "emails_opened": 91,
+    "positive_replies": 31
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/8/2026",
+    "emails_sent": 106,
+    "emails_opened": 91,
+    "positive_replies": 9
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/8/2026",
+    "emails_sent": 118,
+    "emails_opened": 84,
+    "positive_replies": 8
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/8/2026",
+    "emails_sent": 100,
+    "emails_opened": 64,
+    "positive_replies": 16
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/8/2026",
+    "emails_sent": 194,
+    "emails_opened": 160,
+    "positive_replies": 12
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/8/2026",
+    "emails_sent": 256,
+    "emails_opened": 214,
+    "positive_replies": 19
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/8/2026",
+    "emails_sent": 228,
+    "emails_opened": 119,
+    "positive_replies": 22
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/9/2026",
+    "emails_sent": 85,
+    "emails_opened": 27,
+    "positive_replies": 16
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/9/2026",
+    "emails_sent": 42,
+    "emails_opened": 35,
+    "positive_replies": 7
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/9/2026",
+    "emails_sent": 207,
+    "emails_opened": 123,
+    "positive_replies": 35
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/10/2026",
+    "emails_sent": 70,
+    "emails_opened": 46,
+    "positive_replies": 7
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/10/2026",
+    "emails_sent": 123,
+    "emails_opened": 96,
+    "positive_replies": 24
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/10/2026",
+    "emails_sent": 217,
+    "emails_opened": 145,
+    "positive_replies": 29
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/11/2026",
+    "emails_sent": 61,
+    "emails_opened": 46,
+    "positive_replies": 12
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/11/2026",
+    "emails_sent": 107,
+    "emails_opened": 58,
+    "positive_replies": 14
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/11/2026",
+    "emails_sent": 98,
+    "emails_opened": 40,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/11/2026",
+    "emails_sent": 53,
+    "emails_opened": 23,
+    "positive_replies": 8
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/11/2026",
+    "emails_sent": 236,
+    "emails_opened": 84,
+    "positive_replies": 12
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/12/2026",
+    "emails_sent": 113,
+    "emails_opened": 48,
+    "positive_replies": 21
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/12/2026",
+    "emails_sent": 71,
+    "emails_opened": 48,
+    "positive_replies": 4
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/12/2026",
+    "emails_sent": 86,
+    "emails_opened": 56,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/12/2026",
+    "emails_sent": 40,
+    "emails_opened": 34,
+    "positive_replies": 2
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/12/2026",
+    "emails_sent": 228,
+    "emails_opened": 79,
+    "positive_replies": 32
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/13/2026",
+    "emails_sent": 68,
+    "emails_opened": 40,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/13/2026",
+    "emails_sent": 80,
+    "emails_opened": 35,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/13/2026",
+    "emails_sent": 254,
+    "emails_opened": 92,
+    "positive_replies": 36
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/14/2026",
+    "emails_sent": 71,
+    "emails_opened": 27,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/14/2026",
+    "emails_sent": 75,
+    "emails_opened": 30,
+    "positive_replies": 11
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/14/2026",
+    "emails_sent": 172,
+    "emails_opened": 121,
+    "positive_replies": 22
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/14/2026",
+    "emails_sent": 234,
+    "emails_opened": 81,
+    "positive_replies": 20
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/14/2026",
+    "emails_sent": 214,
+    "emails_opened": 152,
+    "positive_replies": 24
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/15/2026",
+    "emails_sent": 64,
+    "emails_opened": 28,
+    "positive_replies": 6
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/15/2026",
+    "emails_sent": 96,
+    "emails_opened": 48,
+    "positive_replies": 8
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/15/2026",
+    "emails_sent": 47,
+    "emails_opened": 41,
+    "positive_replies": 5
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/15/2026",
+    "emails_sent": 120,
+    "emails_opened": 50,
+    "positive_replies": 7
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/15/2026",
+    "emails_sent": 217,
+    "emails_opened": 182,
+    "positive_replies": 33
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/16/2026",
+    "emails_sent": 93,
+    "emails_opened": 44,
+    "positive_replies": 15
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/16/2026",
+    "emails_sent": 128,
+    "emails_opened": 68,
+    "positive_replies": 20
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/16/2026",
+    "emails_sent": 212,
+    "emails_opened": 121,
+    "positive_replies": 41
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/16/2026",
+    "emails_sent": 201,
+    "emails_opened": 103,
+    "positive_replies": 14
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/17/2026",
+    "emails_sent": 115,
+    "emails_opened": 61,
+    "positive_replies": 12
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/17/2026",
+    "emails_sent": 136,
+    "emails_opened": 61,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/17/2026",
+    "emails_sent": 201,
+    "emails_opened": 82,
+    "positive_replies": 17
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/18/2026",
+    "emails_sent": 108,
+    "emails_opened": 93,
+    "positive_replies": 16
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/18/2026",
+    "emails_sent": 87,
+    "emails_opened": 32,
+    "positive_replies": 10
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/18/2026",
+    "emails_sent": 134,
+    "emails_opened": 80,
+    "positive_replies": 18
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/18/2026",
+    "emails_sent": 136,
+    "emails_opened": 103,
+    "positive_replies": 25
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/18/2026",
+    "emails_sent": 245,
+    "emails_opened": 124,
+    "positive_replies": 17
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/19/2026",
+    "emails_sent": 64,
+    "emails_opened": 55,
+    "positive_replies": 5
+  },
+  {
+    "campaign_name": "campaign_1",
+    "date": "3/19/2026",
+    "emails_sent": 80,
+    "emails_opened": 54,
+    "positive_replies": 7
+  },
+  {
+    "campaign_name": "campaign_2",
+    "date": "3/19/2026",
+    "emails_sent": 199,
+    "emails_opened": 89,
+    "positive_replies": 23
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/19/2026",
+    "emails_sent": 201,
+    "emails_opened": 133,
+    "positive_replies": 18
+  },
+  {
+    "campaign_name": "campaign_3",
+    "date": "3/19/2026",
+    "emails_sent": 249,
+    "emails_opened": 132,
+    "positive_replies": 40
+  }
+]

@@ -30,6 +30,11 @@
         <p>Returns daily analytics per account: date, emails sent, emails opened, and replies for each sending account.</p>
     </div>
 
+    <div class="endpoint">
+        <p><span class="method">GET</span><a href="api/campaign-analytics.json">api/campaign-analytics.json</a></p>
+        <p>Returns daily campaign analytics: campaign name, date, emails sent, emails opened, and positive replies.</p>
+    </div>
+
     <h2>Example Usage</h2>
     <pre><code>// Fetch account summaries
 fetch('https://&lt;username&gt;.github.io/gtmeng_api_simulation/api/accounts.json')
@@ -38,6 +43,11 @@ fetch('https://&lt;username&gt;.github.io/gtmeng_api_simulation/api/accounts.jso
 
 // Fetch daily analytics
 fetch('https://&lt;username&gt;.github.io/gtmeng_api_simulation/api/account-analytics.json')
+  .then(res => res.json())
+  .then(data => console.log(data));
+
+// Fetch campaign analytics
+fetch('https://&lt;username&gt;.github.io/gtmeng_api_simulation/api/campaign-analytics.json')
   .then(res => res.json())
   .then(data => console.log(data));</code></pre>
 </body>
