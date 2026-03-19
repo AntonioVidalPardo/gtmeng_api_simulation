@@ -3,52 +3,243 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GTM Engineering API Simulation</title>
+    <title>GTM Engineering API – Documentation</title>
     <style>
-        body { font-family: system-ui, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; line-height: 1.6; }
-        h1 { border-bottom: 2px solid #333; padding-bottom: 10px; }
-        code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; font-size: 0.95em; }
-        .endpoint { background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px 16px; margin: 16px 0; border-radius: 4px; }
-        .endpoint a { font-weight: bold; text-decoration: none; color: #0066cc; }
-        .endpoint a:hover { text-decoration: underline; }
-        .method { background: #0066cc; color: white; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: bold; margin-right: 8px; }
+        :root { --blue: #0066cc; --green: #16a34a; --bg: #f8fafc; --border: #e2e8f0; --code-bg: #1e293b; --code-fg: #e2e8f0; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: system-ui, -apple-system, sans-serif; color: #1e293b; line-height: 1.6; background: #fff; }
+        .container { max-width: 860px; margin: 0 auto; padding: 40px 24px 80px; }
+        h1 { font-size: 1.8rem; margin-bottom: 8px; }
+        .subtitle { color: #64748b; font-size: 1.05rem; margin-bottom: 32px; }
+        h2 { font-size: 1.35rem; margin: 40px 0 16px; padding-bottom: 8px; border-bottom: 2px solid var(--border); }
+        h3 { font-size: 1.1rem; margin: 24px 0 12px; }
+        p { margin-bottom: 12px; }
+        a { color: var(--blue); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        code { background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+
+        .base-url { background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 16px 20px; margin: 16px 0 32px; }
+        .base-url code { background: none; padding: 0; font-size: 1em; color: var(--blue); }
+
+        .endpoint-card { background: #fff; border: 1px solid var(--border); border-radius: 8px; margin: 20px 0; overflow: hidden; }
+        .endpoint-header { display: flex; align-items: center; gap: 12px; padding: 16px 20px; background: var(--bg); border-bottom: 1px solid var(--border); }
+        .method { background: var(--green); color: #fff; padding: 3px 10px; border-radius: 4px; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.5px; }
+        .path { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; font-size: 0.95rem; font-weight: 600; }
+        .endpoint-body { padding: 20px; }
+        .endpoint-body p { color: #475569; }
+
+        table { width: 100%; border-collapse: collapse; margin: 12px 0 20px; font-size: 0.92rem; }
+        th { text-align: left; padding: 8px 12px; background: var(--bg); border: 1px solid var(--border); font-weight: 600; }
+        td { padding: 8px 12px; border: 1px solid var(--border); }
+        td code { font-size: 0.85em; }
+        .type { color: #7c3aed; font-weight: 500; }
+
+        pre { background: var(--code-bg); color: var(--code-fg); border-radius: 8px; padding: 16px 20px; overflow-x: auto; margin: 12px 0 20px; font-size: 0.88rem; line-height: 1.5; }
+        pre code { background: none; padding: 0; color: inherit; font-size: inherit; }
+        .comment { color: #64748b; }
+        .string { color: #86efac; }
+        .number { color: #fbbf24; }
+        .key { color: #93c5fd; }
+
+        .note { background: #eff6ff; border-left: 4px solid var(--blue); padding: 12px 16px; border-radius: 0 6px 6px 0; margin: 16px 0; font-size: 0.92rem; color: #1e40af; }
+        .toc { list-style: none; margin: 12px 0 24px; }
+        .toc li { margin: 6px 0; }
+        .toc li::before { content: '→ '; color: #94a3b8; }
+        footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--border); color: #94a3b8; font-size: 0.85rem; text-align: center; }
     </style>
 </head>
 <body>
-    <h1>GTM Engineering - API Simulation</h1>
-    <p>This is a static JSON API served via GitHub Pages for educational purposes. Use <code>fetch()</code>, Postman, or <code>curl</code> to hit the endpoints below.</p>
+<div class="container">
 
-    <h2>Available Endpoints</h2>
+    <h1>GTM Engineering API</h1>
+    <p class="subtitle">Static JSON API for email outreach account and campaign analytics. Served via GitHub Pages.</p>
 
-    <div class="endpoint">
-        <p><span class="method">GET</span><a href="api/accounts.json">api/accounts.json</a></p>
-        <p>Returns aggregated account summaries: owner, tags, total emails sent/opened/replied, open rate, and reply rate.</p>
+    <div class="base-url">
+        <strong>Base URL</strong><br>
+        <code>https://antoniovidalpardo.github.io/gtmeng_api_simulation/</code>
     </div>
 
-    <div class="endpoint">
-        <p><span class="method">GET</span><a href="api/account-analytics.json">api/account-analytics.json</a></p>
-        <p>Returns daily analytics per account: date, emails sent, emails opened, and replies for each sending account.</p>
+    <h2>Table of Contents</h2>
+    <ul class="toc">
+        <li><a href="#accounts">GET /api/accounts.json</a> – Account summaries</li>
+        <li><a href="#account-analytics">GET /api/account-analytics.json</a> – Daily account analytics</li>
+        <li><a href="#campaign-analytics">GET /api/campaign-analytics.json</a> – Daily campaign analytics</li>
+        <li><a href="#usage">Usage examples</a></li>
+    </ul>
+
+    <div class="note">
+        This is a static API — all endpoints return the full dataset as a JSON array. Filtering, sorting, and pagination should be done client-side after fetching.
     </div>
 
-    <div class="endpoint">
-        <p><span class="method">GET</span><a href="api/campaign-analytics.json">api/campaign-analytics.json</a></p>
-        <p>Returns daily campaign analytics: campaign name, date, emails sent, emails opened, and positive replies.</p>
+    <!-- ======== ENDPOINT 1 ======== -->
+    <h2 id="accounts">1. Account Summaries</h2>
+
+    <div class="endpoint-card">
+        <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="path">/api/accounts.json</span>
+        </div>
+        <div class="endpoint-body">
+            <p>Returns aggregated performance summaries for all 12 email sending accounts, including lifetime totals and calculated rates.</p>
+
+            <h3>Response Schema</h3>
+            <p>Returns a JSON array of account objects:</p>
+            <table>
+                <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+                <tr><td><code>account</code></td><td class="type">string</td><td>Email address of the sending account</td></tr>
+                <tr><td><code>owner</code></td><td class="type">string</td><td>Name of the account owner</td></tr>
+                <tr><td><code>tags</code></td><td class="type">string[]</td><td>Tags assigned to the account (e.g. <code>"antonio; batch_1"</code>)</td></tr>
+                <tr><td><code>total_emails_sent</code></td><td class="type">integer</td><td>Total emails sent across all dates</td></tr>
+                <tr><td><code>total_emails_opened</code></td><td class="type">integer</td><td>Total emails opened</td></tr>
+                <tr><td><code>total_replies</code></td><td class="type">integer</td><td>Total replies received</td></tr>
+                <tr><td><code>first_date</code></td><td class="type">string</td><td>First active date (<code>M/D/YYYY</code> format)</td></tr>
+                <tr><td><code>last_date</code></td><td class="type">string</td><td>Most recent active date (<code>M/D/YYYY</code> format)</td></tr>
+                <tr><td><code>days_active</code></td><td class="type">integer</td><td>Number of days with sending activity</td></tr>
+                <tr><td><code>open_rate</code></td><td class="type">number</td><td>Open rate as a percentage (e.g. <code>41.2</code> = 41.2%)</td></tr>
+                <tr><td><code>reply_rate</code></td><td class="type">number</td><td>Reply rate as a percentage (e.g. <code>14.7</code> = 14.7%)</td></tr>
+            </table>
+
+            <h3>Example Response</h3>
+<pre><code>[
+  {
+    <span class="key">"account"</span>: <span class="string">"antonio@getgtmeng.com"</span>,
+    <span class="key">"owner"</span>: <span class="string">"antonio"</span>,
+    <span class="key">"tags"</span>: [<span class="string">"antonio; batch_1"</span>],
+    <span class="key">"total_emails_sent"</span>: <span class="number">68</span>,
+    <span class="key">"total_emails_opened"</span>: <span class="number">28</span>,
+    <span class="key">"total_replies"</span>: <span class="number">10</span>,
+    <span class="key">"first_date"</span>: <span class="string">"2/20/2026"</span>,
+    <span class="key">"last_date"</span>: <span class="string">"2/24/2026"</span>,
+    <span class="key">"days_active"</span>: <span class="number">10</span>,
+    <span class="key">"open_rate"</span>: <span class="number">41.2</span>,
+    <span class="key">"reply_rate"</span>: <span class="number">14.7</span>
+  },
+  ...
+]</code></pre>
+        </div>
     </div>
 
-    <h2>Example Usage</h2>
-    <pre><code>// Fetch account summaries
-fetch('https://&lt;username&gt;.github.io/gtmeng_api_simulation/api/accounts.json')
-  .then(res => res.json())
-  .then(data => console.log(data));
+    <!-- ======== ENDPOINT 2 ======== -->
+    <h2 id="account-analytics">2. Daily Account Analytics</h2>
 
-// Fetch daily analytics
-fetch('https://&lt;username&gt;.github.io/gtmeng_api_simulation/api/account-analytics.json')
-  .then(res => res.json())
-  .then(data => console.log(data));
+    <div class="endpoint-card">
+        <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="path">/api/account-analytics.json</span>
+        </div>
+        <div class="endpoint-body">
+            <p>Returns daily email performance metrics broken down by individual sending account. Contains 184 records across 12 accounts, covering <strong>Feb 18 – Mar 9, 2026</strong>.</p>
 
-// Fetch campaign analytics
-fetch('https://&lt;username&gt;.github.io/gtmeng_api_simulation/api/campaign-analytics.json')
-  .then(res => res.json())
-  .then(data => console.log(data));</code></pre>
+            <h3>Response Schema</h3>
+            <p>Returns a JSON array of daily record objects:</p>
+            <table>
+                <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+                <tr><td><code>account</code></td><td class="type">string</td><td>Email address of the sending account</td></tr>
+                <tr><td><code>tag</code></td><td class="type">string</td><td>Tag associated with this account (e.g. <code>"antonio; batch_1"</code>)</td></tr>
+                <tr><td><code>date</code></td><td class="type">string</td><td>Date of the record (<code>M/D/YYYY</code> format)</td></tr>
+                <tr><td><code>emails_sent</code></td><td class="type">integer</td><td>Number of emails sent on this date</td></tr>
+                <tr><td><code>emails_opened</code></td><td class="type">integer</td><td>Number of emails opened on this date</td></tr>
+                <tr><td><code>replies</code></td><td class="type">integer</td><td>Number of replies received on this date</td></tr>
+            </table>
+
+            <h3>Example Response</h3>
+<pre><code>[
+  {
+    <span class="key">"account"</span>: <span class="string">"antonio@getgtmengcourse.com"</span>,
+    <span class="key">"tag"</span>: <span class="string">"antonio; batch_1"</span>,
+    <span class="key">"date"</span>: <span class="string">"2/18/2026"</span>,
+    <span class="key">"emails_sent"</span>: <span class="number">5</span>,
+    <span class="key">"emails_opened"</span>: <span class="number">1</span>,
+    <span class="key">"replies"</span>: <span class="number">0</span>
+  },
+  ...
+]</code></pre>
+        </div>
+    </div>
+
+    <!-- ======== ENDPOINT 3 ======== -->
+    <h2 id="campaign-analytics">3. Daily Campaign Analytics</h2>
+
+    <div class="endpoint-card">
+        <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="path">/api/campaign-analytics.json</span>
+        </div>
+        <div class="endpoint-body">
+            <p>Returns daily performance metrics for email campaigns. Contains 140 records across 3 campaigns (<code>campaign_1</code>, <code>campaign_2</code>, <code>campaign_3</code>), covering <strong>Feb 18 – Mar 9, 2026</strong>.</p>
+
+            <h3>Response Schema</h3>
+            <p>Returns a JSON array of daily campaign record objects:</p>
+            <table>
+                <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+                <tr><td><code>campaign_name</code></td><td class="type">string</td><td>Name of the campaign (<code>campaign_1</code>, <code>campaign_2</code>, or <code>campaign_3</code>)</td></tr>
+                <tr><td><code>date</code></td><td class="type">string</td><td>Date of the record (<code>M/D/YYYY</code> format)</td></tr>
+                <tr><td><code>emails_sent</code></td><td class="type">integer</td><td>Number of emails sent on this date</td></tr>
+                <tr><td><code>emails_opened</code></td><td class="type">integer</td><td>Number of emails opened on this date</td></tr>
+                <tr><td><code>positive_replies</code></td><td class="type">integer</td><td>Number of positive replies received on this date</td></tr>
+            </table>
+
+            <h3>Example Response</h3>
+<pre><code>[
+  {
+    <span class="key">"campaign_name"</span>: <span class="string">"campaign_1"</span>,
+    <span class="key">"date"</span>: <span class="string">"2/18/2026"</span>,
+    <span class="key">"emails_sent"</span>: <span class="number">100</span>,
+    <span class="key">"emails_opened"</span>: <span class="number">80</span>,
+    <span class="key">"positive_replies"</span>: <span class="number">5</span>
+  },
+  ...
+]</code></pre>
+        </div>
+    </div>
+
+    <!-- ======== USAGE ======== -->
+    <h2 id="usage">Usage Examples</h2>
+
+    <h3>JavaScript (fetch)</h3>
+<pre><code><span class="comment">// Base URL for all endpoints</span>
+const BASE = <span class="string">"https://antoniovidalpardo.github.io/gtmeng_api_simulation"</span>;
+
+<span class="comment">// Get all account summaries</span>
+const accounts = await fetch(`${BASE}/api/accounts.json`).then(r => r.json());
+
+<span class="comment">// Get daily analytics for a specific account</span>
+const analytics = await fetch(`${BASE}/api/account-analytics.json`).then(r => r.json());
+const antonioData = analytics.filter(r => r.account === <span class="string">"antonio@getgtmeng.com"</span>);
+
+<span class="comment">// Get campaign analytics for a specific campaign</span>
+const campaigns = await fetch(`${BASE}/api/campaign-analytics.json`).then(r => r.json());
+const campaign1 = campaigns.filter(r => r.campaign_name === <span class="string">"campaign_1"</span>);</code></pre>
+
+    <h3>Python (requests)</h3>
+<pre><code>import requests
+
+BASE = <span class="string">"https://antoniovidalpardo.github.io/gtmeng_api_simulation"</span>
+
+<span class="comment"># Get all account summaries</span>
+accounts = requests.get(f<span class="string">"{BASE}/api/accounts.json"</span>).json()
+
+<span class="comment"># Get daily analytics filtered by account</span>
+analytics = requests.get(f<span class="string">"{BASE}/api/account-analytics.json"</span>).json()
+antonio_data = [r for r in analytics if r[<span class="string">"account"</span>] == <span class="string">"antonio@getgtmeng.com"</span>]
+
+<span class="comment"># Get campaign analytics filtered by date</span>
+campaigns = requests.get(f<span class="string">"{BASE}/api/campaign-analytics.json"</span>).json()
+march_data = [r for r in campaigns if r[<span class="string">"date"</span>].startswith(<span class="string">"3/"</span>)]</code></pre>
+
+    <h3>cURL</h3>
+<pre><code><span class="comment"># Fetch account summaries</span>
+curl -s https://antoniovidalpardo.github.io/gtmeng_api_simulation/api/accounts.json | jq .
+
+<span class="comment"># Fetch daily account analytics</span>
+curl -s https://antoniovidalpardo.github.io/gtmeng_api_simulation/api/account-analytics.json | jq .
+
+<span class="comment"># Fetch campaign analytics</span>
+curl -s https://antoniovidalpardo.github.io/gtmeng_api_simulation/api/campaign-analytics.json | jq .</code></pre>
+
+    <footer>
+        GTM Engineering API Simulation &middot; Static JSON served via GitHub Pages
+    </footer>
+</div>
 </body>
 </html>
