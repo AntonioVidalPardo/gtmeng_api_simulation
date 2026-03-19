@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTM Engineering API Simulation</title>
+    <style>
+        body { font-family: system-ui, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; line-height: 1.6; }
+        h1 { border-bottom: 2px solid #333; padding-bottom: 10px; }
+        code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; font-size: 0.95em; }
+        .endpoint { background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px 16px; margin: 16px 0; border-radius: 4px; }
+        .endpoint a { font-weight: bold; text-decoration: none; color: #0066cc; }
+        .endpoint a:hover { text-decoration: underline; }
+        .method { background: #0066cc; color: white; padding: 2px 8px; border-radius: 3px; font-size: 0.85em; font-weight: bold; margin-right: 8px; }
+    </style>
+</head>
+<body>
+    <h1>GTM Engineering - API Simulation</h1>
+    <p>This is a static JSON API served via GitHub Pages for educational purposes. Use <code>fetch()</code>, Postman, or <code>curl</code> to hit the endpoints below.</p>
+
+    <h2>Available Endpoints</h2>
+
+    <div class="endpoint">
+        <p><span class="method">GET</span><a href="api/accounts.json">api/accounts.json</a></p>
+        <p>Returns aggregated account summaries: owner, tags, total emails sent/opened/replied, open rate, and reply rate.</p>
+    </div>
+
+    <div class="endpoint">
+        <p><span class="method">GET</span><a href="api/account-analytics.json">api/account-analytics.json</a></p>
+        <p>Returns daily analytics per account: date, emails sent, emails opened, and replies for each sending account.</p>
+    </div>
+
+    <h2>Example Usage</h2>
+    <pre><code>// Fetch account summaries
+fetch('https://&lt;username&gt;.github.io/gtmeng_api_simulation/api/accounts.json')
+  .then(res => res.json())
+  .then(data => console.log(data));
+
+// Fetch daily analytics
+fetch('https://&lt;username&gt;.github.io/gtmeng_api_simulation/api/account-analytics.json')
+  .then(res => res.json())
+  .then(data => console.log(data));</code></pre>
+</body>
+</html>

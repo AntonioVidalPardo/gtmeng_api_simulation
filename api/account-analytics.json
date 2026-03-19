@@ -1,0 +1,1474 @@
+[
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "2/18/2026",
+    "emails_sent": 5,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "2/18/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "2/18/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/18/2026",
+    "emails_sent": 10,
+    "emails_opened": 1,
+    "replies": 1
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "2/18/2026",
+    "emails_sent": 5,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/18/2026",
+    "emails_sent": 10,
+    "emails_opened": 3,
+    "replies": 3
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/18/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 2
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/18/2026",
+    "emails_sent": 7,
+    "emails_opened": 4,
+    "replies": 1
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/19/2026",
+    "emails_sent": 7,
+    "emails_opened": 4,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/19/2026",
+    "emails_sent": 9,
+    "emails_opened": 8,
+    "replies": 1
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/19/2026",
+    "emails_sent": 9,
+    "emails_opened": 1,
+    "replies": 1
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "2/20/2026",
+    "emails_sent": 7,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "2/20/2026",
+    "emails_sent": 9,
+    "emails_opened": 5,
+    "replies": 1
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "2/20/2026",
+    "emails_sent": 10,
+    "emails_opened": 3,
+    "replies": 1
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/20/2026",
+    "emails_sent": 10,
+    "emails_opened": 3,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/20/2026",
+    "emails_sent": 7,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "2/20/2026",
+    "emails_sent": 9,
+    "emails_opened": 6,
+    "replies": 2
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/20/2026",
+    "emails_sent": 7,
+    "emails_opened": 5,
+    "replies": 1
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/20/2026",
+    "emails_sent": 2,
+    "emails_opened": 1,
+    "replies": 1
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "2/21/2026",
+    "emails_sent": 5,
+    "emails_opened": 4,
+    "replies": 2
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/21/2026",
+    "emails_sent": 9,
+    "emails_opened": 4,
+    "replies": 0
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/21/2026",
+    "emails_sent": 5,
+    "emails_opened": 5,
+    "replies": 3
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "2/22/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "2/22/2026",
+    "emails_sent": 5,
+    "emails_opened": 4,
+    "replies": 3
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/22/2026",
+    "emails_sent": 10,
+    "emails_opened": 6,
+    "replies": 4
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/22/2026",
+    "emails_sent": 5,
+    "emails_opened": 5,
+    "replies": 1
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "2/22/2026",
+    "emails_sent": 10,
+    "emails_opened": 8,
+    "replies": 4
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "2/22/2026",
+    "emails_sent": 9,
+    "emails_opened": 5,
+    "replies": 1
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/1/2026",
+    "emails_sent": 9,
+    "emails_opened": 4,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/1/2026",
+    "emails_sent": 10,
+    "emails_opened": 4,
+    "replies": 2
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/1/2026",
+    "emails_sent": 10,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "3/1/2026",
+    "emails_sent": 7,
+    "emails_opened": 4,
+    "replies": 0
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/1/2026",
+    "emails_sent": 10,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/1/2026",
+    "emails_sent": 9,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/1/2026",
+    "emails_sent": 5,
+    "emails_opened": 5,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/1/2026",
+    "emails_sent": 10,
+    "emails_opened": 4,
+    "replies": 2
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/1/2026",
+    "emails_sent": 5,
+    "emails_opened": 4,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "3/1/2026",
+    "emails_sent": 5,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/1/2026",
+    "emails_sent": 9,
+    "emails_opened": 4,
+    "replies": 1
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/1/2026",
+    "emails_sent": 7,
+    "emails_opened": 5,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/2/2026",
+    "emails_sent": 9,
+    "emails_opened": 3,
+    "replies": 2
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/2/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/2/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "3/2/2026",
+    "emails_sent": 7,
+    "emails_opened": 4,
+    "replies": 1
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/2/2026",
+    "emails_sent": 5,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/2/2026",
+    "emails_sent": 7,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/2/2026",
+    "emails_sent": 2,
+    "emails_opened": 1,
+    "replies": 1
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/2/2026",
+    "emails_sent": 9,
+    "emails_opened": 5,
+    "replies": 1
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/2/2026",
+    "emails_sent": 10,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "3/2/2026",
+    "emails_sent": 7,
+    "emails_opened": 4,
+    "replies": 1
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/2/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/2/2026",
+    "emails_sent": 10,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/3/2026",
+    "emails_sent": 7,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/3/2026",
+    "emails_sent": 10,
+    "emails_opened": 4,
+    "replies": 0
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/3/2026",
+    "emails_sent": 2,
+    "emails_opened": 1,
+    "replies": 1
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "3/3/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 1
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/3/2026",
+    "emails_sent": 9,
+    "emails_opened": 6,
+    "replies": 2
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/3/2026",
+    "emails_sent": 5,
+    "emails_opened": 4,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/3/2026",
+    "emails_sent": 5,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/3/2026",
+    "emails_sent": 10,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/3/2026",
+    "emails_sent": 7,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "3/3/2026",
+    "emails_sent": 9,
+    "emails_opened": 3,
+    "replies": 1
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/3/2026",
+    "emails_sent": 9,
+    "emails_opened": 3,
+    "replies": 0
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/3/2026",
+    "emails_sent": 9,
+    "emails_opened": 5,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/4/2026",
+    "emails_sent": 5,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/4/2026",
+    "emails_sent": 10,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/4/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/4/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/4/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/4/2026",
+    "emails_sent": 10,
+    "emails_opened": 8,
+    "replies": 2
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/5/2026",
+    "emails_sent": 10,
+    "emails_opened": 9,
+    "replies": 0
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/5/2026",
+    "emails_sent": 10,
+    "emails_opened": 1,
+    "replies": 1
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/5/2026",
+    "emails_sent": 9,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/5/2026",
+    "emails_sent": 10,
+    "emails_opened": 9,
+    "replies": 8
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/6/2026",
+    "emails_sent": 9,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/6/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/6/2026",
+    "emails_sent": 10,
+    "emails_opened": 9,
+    "replies": 1
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/6/2026",
+    "emails_sent": 7,
+    "emails_opened": 7,
+    "replies": 5
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/6/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/7/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 2
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/7/2026",
+    "emails_sent": 7,
+    "emails_opened": 3,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/7/2026",
+    "emails_sent": 7,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/7/2026",
+    "emails_sent": 10,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/7/2026",
+    "emails_sent": 7,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "3/7/2026",
+    "emails_sent": 10,
+    "emails_opened": 10,
+    "replies": 8
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/7/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/8/2026",
+    "emails_sent": 7,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/8/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/8/2026",
+    "emails_sent": 9,
+    "emails_opened": 4,
+    "replies": 0
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/8/2026",
+    "emails_sent": 7,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "3/9/2026",
+    "emails_sent": 7,
+    "emails_opened": 5,
+    "replies": 0
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/9/2026",
+    "emails_sent": 9,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/9/2026",
+    "emails_sent": 10,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "3/9/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/9/2026",
+    "emails_sent": 10,
+    "emails_opened": 8,
+    "replies": 2
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/10/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/10/2026",
+    "emails_sent": 5,
+    "emails_opened": 5,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/10/2026",
+    "emails_sent": 5,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/10/2026",
+    "emails_sent": 10,
+    "emails_opened": 6,
+    "replies": 4
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/10/2026",
+    "emails_sent": 9,
+    "emails_opened": 3,
+    "replies": 2
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/11/2026",
+    "emails_sent": 9,
+    "emails_opened": 3,
+    "replies": 1
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "3/11/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 2
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/11/2026",
+    "emails_sent": 5,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/11/2026",
+    "emails_sent": 9,
+    "emails_opened": 5,
+    "replies": 2
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/12/2026",
+    "emails_sent": 2,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/12/2026",
+    "emails_sent": 7,
+    "emails_opened": 5,
+    "replies": 3
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/12/2026",
+    "emails_sent": 10,
+    "emails_opened": 5,
+    "replies": 0
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/12/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/12/2026",
+    "emails_sent": 10,
+    "emails_opened": 4,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/13/2026",
+    "emails_sent": 10,
+    "emails_opened": 4,
+    "replies": 3
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "3/13/2026",
+    "emails_sent": 7,
+    "emails_opened": 6,
+    "replies": 5
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/13/2026",
+    "emails_sent": 7,
+    "emails_opened": 5,
+    "replies": 5
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/13/2026",
+    "emails_sent": 7,
+    "emails_opened": 6,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/13/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/13/2026",
+    "emails_sent": 9,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/13/2026",
+    "emails_sent": 7,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/14/2026",
+    "emails_sent": 5,
+    "emails_opened": 4,
+    "replies": 3
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/14/2026",
+    "emails_sent": 5,
+    "emails_opened": 5,
+    "replies": 0
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/14/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/14/2026",
+    "emails_sent": 2,
+    "emails_opened": 1,
+    "replies": 1
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "3/14/2026",
+    "emails_sent": 9,
+    "emails_opened": 7,
+    "replies": 7
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/14/2026",
+    "emails_sent": 7,
+    "emails_opened": 5,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/15/2026",
+    "emails_sent": 10,
+    "emails_opened": 3,
+    "replies": 3
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/15/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/15/2026",
+    "emails_sent": 5,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/15/2026",
+    "emails_sent": 9,
+    "emails_opened": 6,
+    "replies": 5
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/16/2026",
+    "emails_sent": 9,
+    "emails_opened": 9,
+    "replies": 8
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "3/16/2026",
+    "emails_sent": 9,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/16/2026",
+    "emails_sent": 9,
+    "emails_opened": 3,
+    "replies": 1
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/16/2026",
+    "emails_sent": 10,
+    "emails_opened": 8,
+    "replies": 5
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/16/2026",
+    "emails_sent": 10,
+    "emails_opened": 7,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "3/16/2026",
+    "emails_sent": 10,
+    "emails_opened": 3,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/17/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/17/2026",
+    "emails_sent": 7,
+    "emails_opened": 5,
+    "replies": 4
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/17/2026",
+    "emails_sent": 10,
+    "emails_opened": 7,
+    "replies": 3
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "3/17/2026",
+    "emails_sent": 7,
+    "emails_opened": 3,
+    "replies": 2
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "3/17/2026",
+    "emails_sent": 7,
+    "emails_opened": 7,
+    "replies": 1
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/17/2026",
+    "emails_sent": 5,
+    "emails_opened": 5,
+    "replies": 2
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/18/2026",
+    "emails_sent": 9,
+    "emails_opened": 6,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/18/2026",
+    "emails_sent": 9,
+    "emails_opened": 9,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/18/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "3/18/2026",
+    "emails_sent": 10,
+    "emails_opened": 7,
+    "replies": 6
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "3/19/2026",
+    "emails_sent": 7,
+    "emails_opened": 6,
+    "replies": 5
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "3/19/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 1
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "3/19/2026",
+    "emails_sent": 5,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/19/2026",
+    "emails_sent": 9,
+    "emails_opened": 8,
+    "replies": 8
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "3/19/2026",
+    "emails_sent": 10,
+    "emails_opened": 3,
+    "replies": 3
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "3/19/2026",
+    "emails_sent": 10,
+    "emails_opened": 8,
+    "replies": 0
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "3/19/2026",
+    "emails_sent": 9,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "2/23/2026",
+    "emails_sent": 10,
+    "emails_opened": 4,
+    "replies": 2
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "2/23/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "2/23/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 0
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/23/2026",
+    "emails_sent": 7,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/23/2026",
+    "emails_sent": 5,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/23/2026",
+    "emails_sent": 2,
+    "emails_opened": 1,
+    "replies": 1
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/23/2026",
+    "emails_sent": 10,
+    "emails_opened": 9,
+    "replies": 3
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/23/2026",
+    "emails_sent": 7,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "antonio@getgtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "2/24/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "2/24/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/24/2026",
+    "emails_sent": 10,
+    "emails_opened": 9,
+    "replies": 6
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/24/2026",
+    "emails_sent": 5,
+    "emails_opened": 5,
+    "replies": 3
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "2/24/2026",
+    "emails_sent": 10,
+    "emails_opened": 2,
+    "replies": 1
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/24/2026",
+    "emails_sent": 7,
+    "emails_opened": 4,
+    "replies": 1
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/24/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 0
+  },
+  {
+    "account": "antonio@getgtmengcourse.com",
+    "tag": "antonio; batch_1",
+    "date": "2/25/2026",
+    "emails_sent": 2,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/25/2026",
+    "emails_sent": 10,
+    "emails_opened": 8,
+    "replies": 3
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/25/2026",
+    "emails_sent": 2,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/25/2026",
+    "emails_sent": 7,
+    "emails_opened": 7,
+    "replies": 7
+  },
+  {
+    "account": "antonio@gtmeng.com",
+    "tag": "antonio; batch_1",
+    "date": "2/26/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 3
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "2/26/2026",
+    "emails_sent": 7,
+    "emails_opened": 7,
+    "replies": 3
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/26/2026",
+    "emails_sent": 9,
+    "emails_opened": 5,
+    "replies": 3
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/26/2026",
+    "emails_sent": 10,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "2/26/2026",
+    "emails_sent": 10,
+    "emails_opened": 9,
+    "replies": 7
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/26/2026",
+    "emails_sent": 7,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "bryce@hellogtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/26/2026",
+    "emails_sent": 5,
+    "emails_opened": 0,
+    "replies": 0
+  },
+  {
+    "account": "antonio@gtmengcourse.com",
+    "tag": "antonio; batch_2",
+    "date": "2/27/2026",
+    "emails_sent": 5,
+    "emails_opened": 1,
+    "replies": 1
+  },
+  {
+    "account": "antonio@hellogtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/27/2026",
+    "emails_sent": 2,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "antonio@higtmeng.com",
+    "tag": "antonio; batch_2",
+    "date": "2/27/2026",
+    "emails_sent": 7,
+    "emails_opened": 1,
+    "replies": 0
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/27/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 1
+  },
+  {
+    "account": "bryce@getgtmengcourse.com",
+    "tag": "bryce; batch_1",
+    "date": "2/27/2026",
+    "emails_sent": 7,
+    "emails_opened": 7,
+    "replies": 3
+  },
+  {
+    "account": "bryce@higtmeng.com",
+    "tag": "bryce; batch_2",
+    "date": "2/27/2026",
+    "emails_sent": 2,
+    "emails_opened": 2,
+    "replies": 2
+  },
+  {
+    "account": "bryce@getgtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/28/2026",
+    "emails_sent": 9,
+    "emails_opened": 7,
+    "replies": 7
+  },
+  {
+    "account": "bryce@gtmeng.com",
+    "tag": "bryce; batch_1",
+    "date": "2/28/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 0
+  },
+  {
+    "account": "bryce@gtmengcourse.com",
+    "tag": "bryce; batch_2",
+    "date": "2/28/2026",
+    "emails_sent": 5,
+    "emails_opened": 3,
+    "replies": 0
+  }
+]
